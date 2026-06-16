@@ -1,20 +1,22 @@
-Component,link,price,qty,total,shipping and tax,usd
-speaker,https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large?variant=36014183022745&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopAwl-McXb629Uy8SUohOU4_S37xz01wkD58gYBX4n-Car-ZNXvRJ8,50,1,50,18,
-amplifier,https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/,185,1,185,,
-10uf capacitor,https://robu.in/product/50yxf10mffc5x11-rubycon-10uf-50v-%c2%b120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs/,10,2,20,,
-1uf capacitor(min order,https://robu.in/product/ers1hm010d11ot-aishi-1uf-50v%c2%b120-plugind5x11mm-aluminum-electrolytic-capacitors-leaded-rohs/,1.81,6,10.6,,
-4.7uf capacitor,https://robu.in/product/50yxf4r7mefct15x11-rubycon-4-7uf-50v-%c2%b120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs/,7,2,14,,
-potentiometer,https://robu.in/product/100k-ohm-3pin-15mm-shaft-potentiometer-pack-of-3/,23,1,23,49,
-0.1uf capacitor,https://robocraze.com/products/0-1-uf-50v-ceramic-capacitor?variant=43638848127200,17,2,34,,
-2.2k resistor ( pack of 10),https://robocraze.com/products/2-2k-ohm-resistor-pack-of-10?variant=40194236743833,15,1,15,,
-1k resistor ( pack of 10),https://robocraze.com/products/1k-resistor-pack-of-10?variant=40194234155161,12,1,12,,
-10k resistor( pack of 10),https://robocraze.com/products/10k-resistor-pack-of-10?variant=40194231304345,13,1,13,,
-18650 holder,https://robocraze.com/products/18650-smd-smt-dual-battery-holder?variant=41351705100441,82,1,82,,
-esp32 super mini,https://robocraze.com/products/esp32-c3-mini-development-board-unsoldered?variant=48465411506400,239,1,239,,
-m2 3mm insert,https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts?variant=49728872448313,1.8,5,9,,
-m2 6mm insert,https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts?variant=49423242101049,2.4,5,12,,
-m2 8mm screw,https://onlyscrews.in/products/m2-x-8mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-8mm?variant=50900339851577,4.8,5,24,,
-m2 10mm screw,https://onlyscrews.in/products/m2-x-10mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-10mm?variant=50900340801849,4.8,5,24,60,
-Total,,,,766.6,127,9.6
-pcb,allpcb,,5,1$,0,1
-usd total,,,,,,10.6
+Component,link,price,qty,total,shipping and tax,total,usd
+speaker,https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large?variant=36014183022745&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopAwl-McXb629Uy8SUohOU4_S37xz01wkD58gYBX4n-Car-ZNXvRJ8,50,1,50,18,,
+amplifier,https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/,185,1,185,,,
+10uf capacitor,https://robu.in/product/50yxf10mffc5x11-rubycon-10uf-50v-%c2%b120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs/,10,2,20,,,
+1uf capacitor(min order,https://robu.in/product/ers1hm010d11ot-aishi-1uf-50v%c2%b120-plugind5x11mm-aluminum-electrolytic-capacitors-leaded-rohs/,1.81,6,10.6,,,
+4.7uf capacitor,https://robu.in/product/50yxf4r7mefct15x11-rubycon-4-7uf-50v-%c2%b120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs/,7,2,14,,,
+potentiometer,https://robu.in/product/100k-ohm-3pin-15mm-shaft-potentiometer-pack-of-3/,23,1,23,,,
+mcp73831,https://robu.in/product/mcp73831t-2dci-ot-microchip-battery-charger-for-1-cell-of-li-ion-li-pol-battery-6v-input-4-2v-500ma-charge-sot-23-5/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWesxIAOGtdsLwCo2hYp3UC-9&gclid=CjwKCAjwxb7RBhA5EiwAQ-AAdITzA1JCzwghQRx5ZseV6wuH4NPsH6kC6K0IZD4zEoA-meBtaPgDHBoC4-0QAvD_BwE,105,1,105,,,
+ap2112k 3.3v,https://robu.in/product/ap2202k-3-3trg1-diodes-inc-ldo-fixed-3-3v-0-15a-40-to-125deg-c/,13,1,13,49,,
+0.1uf capacitor,https://robocraze.com/products/0-1-uf-50v-ceramic-capacitor?variant=43638848127200,17,2,34,,,
+2.2k resistor ( pack of 10),https://robocraze.com/products/2-2k-ohm-resistor-pack-of-10?variant=40194236743833,15,1,15,,,
+1k resistor ( pack of 10),https://robocraze.com/products/1k-resistor-pack-of-10?variant=40194234155161,12,1,12,,,
+10k resistor( pack of 10),https://robocraze.com/products/10k-resistor-pack-of-10?variant=40194231304345,13,1,13,,,
+18650 holder,https://robocraze.com/products/18650-smd-smt-dual-battery-holder?variant=41351705100441,82,1,82,,,
+esp32 super mini,https://robocraze.com/products/esp32-c3-mini-development-board-unsoldered?variant=48465411506400,239,1,239,,,
+m2 3mm insert,https://onlyscrews.in/products/m2-x-3mm-brass-threaded-inserts?variant=49728872448313,1.8,5,9,,,
+m2 6mm insert,https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts?variant=49423242101049,2.4,5,12,,,
+m2 8mm screw,https://onlyscrews.in/products/m2-x-8mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-8mm?variant=50900339851577,4.8,5,24,,,
+m2 10mm screw,https://onlyscrews.in/products/m2-x-10mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-10mm?variant=50900340801849,4.8,5,24,60,,
+Total,,,,884.6,127,1011.6,10.7
+pcb,allpcb,,5,1$,0,,1
+usd total,,,,,,,11.7
