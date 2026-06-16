@@ -28,6 +28,8 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 - 1x esp32 super mini
 - 1x 8ohm 1w speaker (35mm diameter)
 - 1x MAX98357A audio amplifier breakout board
+- 1x MCP73831
+- 1x AP1221K 3.3v
 - 1x 100k ohm horizontal potentiometer
 - 1x 10uf capacitor
 - 2x 1uf capacitor
