@@ -1,7 +1,7 @@
 # White Noise Machine 
 ![Alt text](Assets/wh.png)
 
-A very simple white noise generator using an ESP32 (C3-SuperMini) and an audio amplifier. I made this to help me sleep
+A very simple white noise generator using an ESP32 (C3-SuperMini) and an audio amplifier. I made this to help me sleep.
 Its kinda hard for me to sleep, especially with noises, even if it is small. White/pink noise is more comfortable for me. Also this will help blockout small noises
 
 ---
@@ -28,6 +28,7 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 - 1x esp32 super mini
 - 1x 8ohm 1w speaker (35mm diameter)
 - 1x MAX98357A audio amplifier breakout board
+- 1x 100k ohm horizontal potentiometer
 - 1x 10uf capacitor
 - 2x 1uf capacitor
 - 1x 4.7uf capacitor
@@ -51,11 +52,11 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 
 ## How to Flash
 
-# Prerequisites
+### Prerequisites
 - Python 3
 - esptool
 
-# Flash Firmware
+### Flash Firmware
 - Download the firmware zip and unzip
 - Open the folder in terminal
 
