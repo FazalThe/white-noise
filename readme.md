@@ -51,11 +51,11 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 
 ## How to Flash
 
-# Prerequisites
+### Prerequisites
 - Python 3
 - esptool
 
-# Flash Firmware
+### Flash Firmware
 - Download the firmware zip and unzip
 - Open the folder in terminal
 
