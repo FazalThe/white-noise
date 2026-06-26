@@ -59,8 +59,8 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 - esptool
 
 ### Flash Firmware
-- Download the firmware zip and unzip
-- Open the folder in terminal
+- Clone the repository
+- Open the firmware folder in terminal
 
 - Connect the ESP32-C3 to your computer and run:
 
