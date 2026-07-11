@@ -25,23 +25,25 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 ---
 
 ## BOM
-- 1x esp32 super mini
-- 1x 8ohm 1w speaker (35mm diameter)
-- 1x MAX98357A audio amplifier breakout board
-- 1x MCP73831
-- 1x AP1221K 3.3v
-- 1x 100k ohm horizontal potentiometer
-- 1x 10uf capacitor
-- 2x 1uf capacitor
-- 1x 4.7uf capacitor
-- 1x 1k ohm resistor
-- 1x 2k ohm resistor
-- 1x 10k ohm resistor
-- 1x 18560 dual holder smd
-- 4x m2 3mm heatset insert
-- 4x m2 6mm heatset insert
-- 4x m2 8mm screws
-- 4x m2 10mm screws
+| Qty | Component | Notes |
+|----:|-----------|-------|
+| 1 | ESP32 Super Mini | Microcontroller |
+| 1 | 8 Ω 1 W Speaker (35 mm diameter) | Speaker |
+| 1 | MAX98357A Audio Amplifier Breakout Board | I2S Class-D amplifier |
+| 1 | MCP73831 | Li-ion/Li-Po charging IC |
+| 1 | AP1221K 3.3 V | 3.3 V LDO voltage regulator |
+| 1 | 100 kΩ Horizontal Potentiometer | Volume control |
+| 1 | 10 µF Capacitor | |
+| 2 | 1 µF Capacitor | |
+| 1 | 4.7 µF Capacitor | |
+| 1 | 1 kΩ Resistor | |
+| 1 | 2 kΩ Resistor | |
+| 1 | 10 kΩ Resistor | |
+| 1 | 18650 Dual SMD Battery Holder | |
+| 4 | M2 × 3 mm Heat-Set Insert | |
+| 4 | M2 × 6 mm Heat-Set Insert | |
+| 4 | M2 × 8 mm Screw | |
+| 4 | M2 × 10 mm Screw | |
 
 ---
 
@@ -59,15 +61,17 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 - esptool
 
 ### Flash Firmware
-- Clone the repository
-- Open the firmware folder in terminal
 
-- Connect the ESP32-C3 to your computer and run:
+1. Clone the repository.
+2. Open the `firmware` folder in terminal.
+3. Connect the ESP32-C3 to your computer and run:
 
+```bash
 esptool.py --chip esp32c3 --baud 460800 write_flash \
-0x0000 bootloader.bin \
-0x8000 partitions.bin \
-0xE000 boot_app0.bin \
-0x10000 firmware.bin
+  0x0000 bootloader.bin \
+  0x8000 partitions.bin \
+  0xE000 boot_app0.bin \
+  0x10000 firmware.bin
+```
 
 ---
