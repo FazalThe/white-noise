@@ -63,7 +63,7 @@ Its kinda hard for me to sleep, especially with noises, even if it is small. Whi
 ### Flash Firmware
 
 1. Clone the repository.
-2. Open the `firmware` folder in terminal.
+2. Open the `build` folder inside the `firmware` folder in terminal.
 3. Connect the ESP32-C3 to your computer and run:
 
 ```bash
