@@ -121,7 +121,9 @@ Did the 'Idk if will work nor do i have component to test' firmware. Planned a 3
 
 [lapse5](https://lapse.hackclub.com/timelapse/3XgsCXNygfQu)
 
-Completed the CAD, sourced all the parts, tuned the CAD for the speaker available, made the BOM, made the repo. Life happened, and I ended up with 5 individual lapses. T-T
+Completed the CAD, sourced all the parts, tuned the CAD for the speaker available, made the BOM, made the repo. Life happened, and I ended up with 5 individual lapses. T-T. 
+
+This project is completely imported from macondo(except this paragraph). And since it also had lapse, that is the reason why the journals are not quite the standard of what forge requires. Thankyou for considering.
 
 ![](https://cdn.hackclub.com/019ecb6f-7b5b-7daa-9b06-cbd97963c4d4/image.png)
 
